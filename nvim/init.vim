@@ -32,7 +32,7 @@ set noshowcmd
 
 colorscheme elflord
 
-source ~/.config/nvim/ide.vim
+"source ~/.config/nvim/ide.vim
 
 " Some basics:
 	nnoremap c "_c

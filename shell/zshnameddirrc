@@ -1,0 +1,12 @@
+hash -d cac=/home/exlumine/.cache 
+hash -d cf=/home/exlumine/.config 
+hash -d D=/home/exlumine/Downloads 
+hash -d d=/home/exlumine/Documents 
+hash -d dt=/home/exlumine/.local/share 
+hash -d h=/home/exlumine 
+hash -d m=/home/exlumine/Music 
+hash -d mn=/mnt 
+hash -d pp=/home/exlumine/Pictures 
+hash -d sc=/home/exlumine/.local/bin 
+hash -d src=/home/exlumine/.local/src 
+hash -d vv=/home/exlumine/Videos 
