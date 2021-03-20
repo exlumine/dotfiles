@@ -1,1 +1,3 @@
 set autocalc
+
+color "type=STRG bold=0 fg=WHITE bg=BLACK"
